@@ -639,6 +639,26 @@ a[data-lightbox]:hover img {
       background: none;
 }
 
+.h2grey {
+      color: #575757 !important;
+      line-height: 1.1em;
+}
+
+.quote {
+      color: #575757 !important;
+      line-height: 1.1em;
+      font-style: italic;
+      font-size: 20px;
+      margin: 0;
+}
+
+.authorquote {
+      color: #575757 !important;
+      line-height: 1.1em;
+      font-size: 20px;
+      font-weight: 300;
+}
+
 h1,
 h2,
 h3,
